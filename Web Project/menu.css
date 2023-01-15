@@ -1,0 +1,21 @@
+a{
+    text-decoration:none;
+    color:rgb(17, 159, 48);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-left: 18px;
+}
+nav{
+    background-color:rgb(159, 161, 101);
+    height: 40px;
+    padding-top: 15px;
+}
+tr,table{
+    width:100%;
+}
+td{
+    font-size: large;
+    text-align: center;
+}
+body{
+    background-color: ivory;
+}

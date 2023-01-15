@@ -1,0 +1,31 @@
+a{
+    text-decoration:none;
+    color:rgb(17, 159, 48);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-left: 18px;
+}
+nav{
+    background-color:rgb(159, 161, 101);
+    height: 40px;
+    padding-top: 15px;
+}
+h2{
+    text-align: center;
+}
+.bb{
+    width:22%;
+}
+p{
+    text-align:justify;
+    color:goldenrod
+}
+.star{
+    text-align: center;
+    font-size: large;
+}
+body{
+    background-color:ivory;
+}#mmf{
+    font-size:small;
+    text-align:center;
+}
